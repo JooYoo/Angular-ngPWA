@@ -1,6 +1,6 @@
 {
-  "name": "ngPWA",
-  "short_name": "ngPWA",
+  "name": "ng-console-test",
+  "short_name": "ng-console-test",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
